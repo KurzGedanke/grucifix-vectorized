@@ -1,4 +1,4 @@
-# Gruxifix Vector
+# Grucifix Vector
 
 This is a vectorized fan art version of the Grucifix by [u/arrowtron](https://www.reddit.com/r/Ghostbc/comments/fdjxvs/im_certain_a_pro_will_be_able_to_develop_a_much/). It has no commercial intend what so ever.
 
